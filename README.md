@@ -12,6 +12,10 @@ Imagine an undistracted news experience. No ads, no photos, no videos—just tex
 
 [View the Repo 👉🏽](https://github.com/sarmstead/abate/)
 
+### Rewind
+I LOVE movies! But the hardest part of movie night is finding the right one. So, before you hit play tonight, hit Rewind.
+[View the Repo 👉🏽](https://github.com/sarmstead/rewind)
+
 ### Webflow GPT
 Webflow is incredibly flexible; a user can shape their database in almost any fashion imaginable. Unfortunately, as the team at ZEAL was making changes to its Webflow site, all of its blog meta descriptions disappeared! ChatGPT, meet Webflow.
 
