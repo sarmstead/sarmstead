@@ -14,6 +14,7 @@ Imagine an undistracted news experience. No ads, no photos, no videos—just tex
 
 ### Rewind
 I LOVE movies! But the hardest part of movie night is finding the right one. So, before you hit play tonight, hit Rewind.
+
 [View the Repo 👉🏽](https://github.com/sarmstead/rewind)
 
 ### Webflow GPT
