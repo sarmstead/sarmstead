@@ -1,11 +1,16 @@
 # Well, howdy!👋🏽
-My name is Sunjay Armstead. I'm a cross-functional software engineer proficient in JavaScript, HTML, and CSS, specializing in Ruby on Rails and React-based frameworks like Next.js.
+My name is Sunjay Armstead. I'm a cross-functional software engineer proficient in JavaScript, HTML, and CSS, specializing in Ruby on Rails and React.
 
 ## Some of my favorite projects
 ### sunjayarmstead.com
 My portfolio site was built on WordPress for a long time, but the switch to Next.js has been so much fun! Plus I'm saving $180 / year on hosting. Who doesn't like free cash?
 
 [View the Repo 👉🏽](https://github.com/sarmstead/mi-oficina)
+
+### Inventlorry
+Ever wonder how shipping companies keep track of all of their vehicles? I hereby present to you an inventory for all your lorries!
+
+[View the Repo 👉🏽](https://github.com/sarmstead/inventlorry/)
 
 ### Abate
 Imagine an undistracted news experience. No ads, no photos, no videos—just text. Now picture multiple text-only sources in one place. This is Abate.
